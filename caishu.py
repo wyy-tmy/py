@@ -9,5 +9,5 @@ while passward == False:
 	if daan < num:
 		print("no,no,no,too small")
 	if daan == num:
-		print("bingo")
+		print("yes，you are right")
 		passward = True
